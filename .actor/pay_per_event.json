@@ -1,0 +1,7 @@
+{
+  "tool-call": {
+    "eventTitle": "MCP tool call",
+    "eventDescription": "One speech search or one meeting search",
+    "eventPriceUsd": 0.02
+  }
+}

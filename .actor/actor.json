@@ -1,0 +1,17 @@
+{
+  "actorSpecification": 1,
+  "name": "japan-parliament-search-mcp",
+  "title": "Japan Parliament Search MCP (国会会議録検索)",
+  "description": "MCP server for searching Japan's National Diet records (1947-present). Ministerial statements, Q&A, and policy debates from official NDL data.",
+  "version": "0.1",
+  "buildTag": "latest",
+  "usesStandbyMode": true,
+  "webServerMcpPath": "/mcp",
+  "input": {
+    "title": "Japan Parliament Search MCP",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {},
+    "required": []
+  }
+}
